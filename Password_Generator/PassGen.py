@@ -1,6 +1,7 @@
 # PASSGEN V. 1.0
 
-# Program generates solid password with chosen len
+# program generates solid password with chosen len
+# if chose "y", program save password in file PassList.tx
 
 import random
 
