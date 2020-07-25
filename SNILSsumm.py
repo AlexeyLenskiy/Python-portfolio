@@ -1,3 +1,6 @@
+# program generates valid SNILS numbers
+# program has 4 modes
+
 # importing random module
 import random
 
@@ -5,7 +8,7 @@ print()
 print("---------------------------SNILS GENERATOR v. 1.0---------------------------")
 print()
 print("Select programm mode by pressing 1, 2, 3 keys")
-print("[1] - program generates valid SNILS number and counts SNILS control summ. ")
+print("[1] - program generates random valid SNILS number and counts SNILS control summ. ")
 print("[2] - input first 9 number of SNILS. Programm counts SNILS control summ, control nuber and prints valid SNILS number")
 print("[3] - input SNILS control number. Program generates valid SNILS number")
 print("[4] - input SNILS control sum. Program generates valid SNILS number. **LONG CALCULATION TIME**")
