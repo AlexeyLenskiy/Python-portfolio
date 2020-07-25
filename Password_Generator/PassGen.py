@@ -1,6 +1,6 @@
-# KEYGEN V. 1.0
+# PASSGEN V. 1.0
 
-# Programm generate solid password with inputed lenght
+# Program generates solid password with chosen len
 
 import random
 
