@@ -1,3 +1,5 @@
+# Program check if inputed password strong enough
+
 passwd = input("Enter password: ")
 symbol = "!@#$%^&*()-+"
 upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
